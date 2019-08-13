@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>AutoRelatedProducts</name>
+    <version>0.0.1</version>
+    <stability>stable</stability>
+    <license>MIT</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Auto related products first release 0.0.1</summary>
+    <description>Auto related products first release 0.0.1</description>
+    <notes>Auto related products first release 0.0.1</notes>
+    <authors><author><name>EvoPin</name><user>EvoPin</user><email>evopin@gmail.com</email></author></authors>
+    <date>2014-03-11</date>
+    <time>23:04:03</time>
+    <contents><target name="magecommunity"><dir name="EvoPin"><dir name="AutoRelatedProducts"><dir name="Block"><dir name="Adminhtml"><dir name="Catalog"><dir name="Product"><dir name="Edit"><dir name="Tab"><file name="Related.php" hash="61575f9b07bb08379c7175c08b2de506"/></dir></dir></dir></dir></dir><file name="Related.php" hash="9d07c40f5efc40c3214c8e317756f72d"/></dir><dir name="Helper"><file name="Data.php" hash="320c5e4b5dd82f2e32331f336932ad1d"/></dir><dir name="Model"><file name="Collection.php" hash="5e48e0131418139e4455417bd3abb342"/></dir><dir name="etc"><file name="config.xml" hash="424bc68c60ce3d0e1f9b715e6e947f8f"/><file name="system.xml" hash="be967f4a5bf7c51ff1554cc25a12d79e"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="EvoPin_AutoRelatedProducts.xml" hash="48d56933b5f4e60a310fd57b64a8d20c"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
