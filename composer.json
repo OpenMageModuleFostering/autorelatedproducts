@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/AutoRelatedProducts",
+    "name": "OpenMageModuleFostering\/AutoRelatedProducts",
     "type": "magento-module",
     "license": "MIT",
     "homepage": "",
     "description": "Auto related products first release 0.0.1",
     "authors": [
-    {
-        "name": "EvoPin",
-        "email": "evopin@gmail.com"
-    }
-],
+        {
+            "name": "EvoPin",
+            "email": "evopin@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
